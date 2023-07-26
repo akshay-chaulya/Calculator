@@ -38,6 +38,10 @@ btnArry.forEach(button => {
             })
             outPut.value = outPutForPop
         }
+        // else if (btnValue == "%") {
+        //     console.log(outPut.value)
+        //     string = outPut.value/100
+        // }
         else {
             if (bacCount > 0) {
 
